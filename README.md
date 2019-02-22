@@ -1,2 +1,3 @@
-# hello-word
-Short description
+Hi everyone
+
+I've just started!  
